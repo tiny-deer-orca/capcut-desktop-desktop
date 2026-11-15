@@ -1,0 +1,3 @@
+# CapCut Desktop
+
+Utility scaffolding.
