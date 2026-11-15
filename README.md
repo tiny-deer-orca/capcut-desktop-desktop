@@ -1,3 +1,3 @@
 # CapCut Desktop
 
-Utility scaffolding.
+Placeholder README (LLM render failed).
